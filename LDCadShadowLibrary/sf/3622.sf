@@ -1,0 +1,16 @@
+0 LDCad shadow info for "~Brick  1 x  3"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2013-12-15 {Roland Melkert} Initial info for s\3622s01.dat
+
+0 // Top studs
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 4] [pos=0 0 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 4] [pos=10 0 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 4] [pos=-10 0 0]
+
+0 // Bottom explicit holes
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 20] [pos=0 24 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 20] [pos=10 24 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 20] [pos=-10 24 0]
