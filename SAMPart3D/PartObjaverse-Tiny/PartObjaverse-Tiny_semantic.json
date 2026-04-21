@@ -1,0 +1,1911 @@
+{
+    "Human-Shape": {
+        "00200996b8f34f55a2dd2f44d316d107": [
+            "Body",
+            "Clothing",
+            "Head",
+            "Knife",
+            "Arm",
+            "Leg",
+            "Monkey Body",
+            "Monkey Head",
+            "Monkey Tail",
+            "Scarf"
+        ],
+        "053b8a4984e340ad94f3b563594ff09d": [
+            "Body",
+            "Head",
+            "Knapsack",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Neck"
+        ],
+        "2e588c7566c54e4086511411763a3e29": [
+            "Body",
+            "Chair",
+            "Chair Armrest",
+            "Chair Leg",
+            "Chair Seat",
+            "Head",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Microphone"
+        ],
+        "2f7852f6833d4eb69ee3f6ef5fac5738": [
+            "Clothing",
+            "Hair",
+            "Head",
+            "Arm",
+            "Ear",
+            "Foot",
+            "Leg",
+            "Shield",
+            "Sword"
+        ],
+        "3031b834ab514a0fb91e0fec151ed0ff": [
+            "Body",
+            "Hair",
+            "Head",
+            "Arm",
+            "Hand",
+            "Leg"
+        ],
+        "4017fc4184ef4c2782a0231113258a17": [
+            "Head",
+            "Ear",
+            "Hand",
+            "Leg",
+            "Body"
+        ],
+        "423121778c4b4e849a029b8281c68bda": [
+            "Head",
+            "Foot",
+            "Knapsack",
+            "Beard",
+            "Arm",
+            "Hand",
+            "Hair",
+            "Hat",
+            "Leg",
+            "Body",
+            "Bowtie"
+        ],
+        "554899583c654f3e84ba4b4263b4bb94": [
+            "Bow",
+            "Cat Ear Headbands",
+            "Face",
+            "Hair",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Body",
+            "Skirt"
+        ],
+        "5c3ec179b3fb4fb1b006ff935d5dfb77": [
+            "Coat",
+            "Head",
+            "Trousers",
+            "Foot",
+            "Arm",
+            "Hand",
+            "Hair",
+            "Leg",
+            "Eyebrow",
+            "Body"
+        ],
+        "611b64ba5c9f427aba7b20a8f4220a27": [
+            "Base",
+            "Body",
+            "Hair",
+            "Head",
+            "Arm",
+            "Earring",
+            "Hand",
+            "Leg",
+            "Sword",
+            "Sword Energy"
+        ],
+        "63536adbd96147a8869ee36d7f6cfd92": [
+            "Capsule",
+            "Dvd",
+            "Hair",
+            "Head",
+            "Head Band",
+            "Foot",
+            "Hand",
+            "Body",
+            "Others",
+            "Stethoscope"
+        ],
+        "649dd4c47d6d4dd099e518d6393e7c5b": [
+            "Body",
+            "Broom",
+            "Face",
+            "Hair",
+            "Hand",
+            "Leg"
+        ],
+        "78c7c67eae00428b9bc50c288776c75b": [
+            "Beard",
+            "Body",
+            "Book",
+            "Cloak",
+            "Hair",
+            "Hat",
+            "Head",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Sceptre"
+        ],
+        "8208ec4c0f204a0f96f41fb4154264ce": [
+            "Head",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Body"
+        ],
+        "84c69258a64f421080b44ed49650da52": [
+            "Bandage On Head",
+            "Body",
+            "Clothing",
+            "Hair",
+            "Head",
+            "Shoe",
+            "Trousers"
+        ],
+        "8512669067e448a9b1d3fb78bf0c61c6": [
+            "Body",
+            "Cannon",
+            "Hair",
+            "Hand Grenade",
+            "Hat",
+            "Head",
+            "Foot",
+            "Leg",
+            "Mechanical Foot",
+            "Mechanical Leg",
+            "Arm",
+            "Hand",
+            "Robotic Arm",
+            "Robotic Hand",
+            "Strap"
+        ],
+        "854b37afca0c44c9a0302b879a95bfca": [
+            "Body",
+            "Clothing",
+            "Epaulettes",
+            "Hair",
+            "Head",
+            "Issuing",
+            "Shoe",
+            "Socks",
+            "Sword"
+        ],
+        "85f745f8fab74184a66cabd3aa1edbee": [
+            "Axe",
+            "Hair",
+            "Head",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Body"
+        ],
+        "8eda5c8b64f64096b3995a08f6095644": [
+            "Block Jewelry",
+            "Coat",
+            "Green Grass Ornaments",
+            "Hair",
+            "Head",
+            "Arm",
+            "Foot",
+            "Leg",
+            "Body",
+            "Mask",
+            "Sword",
+            "Torch"
+        ],
+        "97582e1d16f6471bac014081535c26ad": [
+            "Body",
+            "Cloak",
+            "Collar",
+            "Crown",
+            "Hair",
+            "Head",
+            "Arm",
+            "Hand",
+            "Leg"
+        ],
+        "9f43d0ac857541e8a3a92e20ba284c44": [
+            "Body",
+            "Clothing",
+            "Head",
+            "Arm",
+            "Leg"
+        ],
+        "ab9804f981184f8db6f1f814c2b8c169": [
+            "Body",
+            "Clothing",
+            "Hair",
+            "Head",
+            "Leg",
+            "Robotic Arm",
+            "Hand",
+            "Shorts"
+        ],
+        "b1d515a6cbe847ea91e2c5680b8fc67f": [
+            "Head",
+            "Foot",
+            "Shawl",
+            "Arm",
+            "Hand",
+            "Hair",
+            "Hat",
+            "Leg",
+            "Body",
+            "Bowtie",
+            "Cloak"
+        ],
+        "c54bbdec340e4c71966aa36f5a8219cd": [
+            "Coat",
+            "Hair",
+            "Head",
+            "Arm",
+            "Ear",
+            "Foot",
+            "Hand",
+            "Body",
+            "Neck"
+        ],
+        "d7570691b670496bb670a9fc1d28057c": [
+            "Head",
+            "Knapsack",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Body"
+        ],
+        "ed24b6e27921449f935509d9f3da043f": [
+            "Face",
+            "Hair",
+            "Helmet",
+            "Arm",
+            "Arm Armor",
+            "Foot",
+            "Leg",
+            "Body",
+            "Shoulder Armor",
+            "Waist Armor"
+        ],
+        "f0d1d771d8014c919d307d63ffd24907": [
+            "Body",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Others",
+            "Spectacles"
+        ],
+        "f56267bbe2ab41428f4d7148876eced1": [
+            "Beard",
+            "Body",
+            "Cloak",
+            "Head",
+            "Helmet",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg"
+        ],
+        "f98f9602167641529eb3f8044b61692f": [
+            "Body",
+            "Head",
+            "Knife",
+            "Arm",
+            "Hand",
+            "Leg"
+        ]
+    },
+    "Animals": {
+        "144bf300ef43437096e4be61f4575bab": [
+            "Body",
+            "Clothing",
+            "Hatchet",
+            "Head",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Horn",
+            "Leg",
+            "Tail",
+            "Wing"
+        ],
+        "2260799ee4e342398b64ab4ce8af1559": [
+            "Eyebrow",
+            "Head",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Tortoise Shell"
+        ],
+        "2452cceb3ce7430ab033be6d5fc12a6e": [
+            "Body",
+            "Eye",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Orbital Bandage",
+            "Overalls",
+            "Spectacles",
+            "Teeth"
+        ],
+        "26b87e15e15b449fae1b57bdd6d477ef": [
+            "Body",
+            "Bone",
+            "Clothing",
+            "Head",
+            "Helmet",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Rugby"
+        ],
+        "29e480b958df44a2ac3a4ed12b7ee1a0": [
+            "Body",
+            "Hair",
+            "Head",
+            "Leg",
+            "Tail"
+        ],
+        "36793e98c89f41c186617d4581598ec4": [
+            "Body",
+            "Hair",
+            "Head",
+            "Horns",
+            "Leg",
+            "Sunglasses",
+            "Tail"
+        ],
+        "395af3909e9d4152b713769ae9182ef0": [
+            "Base",
+            "Body",
+            "Head",
+            "Leg",
+            "Turtle Shell",
+            "Tail"
+        ],
+        "439ee7ebf11d45739dbef21b91669c1b": [
+            "Head",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Tail",
+            "Tortoise Shell"
+        ],
+        "4c1be75a50094357892d1cb8b6ad3f34": [
+            "Base",
+            "Head",
+            "Tail",
+            "Foot",
+            "Arm",
+            "Hand",
+            "Ear",
+            "Leg",
+            "Body",
+            "Eye"
+        ],
+        "4c387f86d1b4436f86abb37ee060fd7a": [
+            "Body",
+            "Collar",
+            "Head",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Tail"
+        ],
+        "53d9d21ff95f42428225f906cd9a0a5a": [
+            "Body",
+            "Fur",
+            "Head",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Tail"
+        ],
+        "5eba9c3b53294dc08605c801f8152bbe": [
+            "Body",
+            "Head",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Tail"
+        ],
+        "63695230beb44ae68650bdd4d914917f": [
+            "Body",
+            "Coat",
+            "Hair",
+            "Head",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Shoe",
+            "Mace",
+            "Prayer Beads",
+            "Rope",
+            "Sash",
+            "Shoulder Armor",
+            "Skulls",
+            "Trousers"
+        ],
+        "674e65a1f526461781e59ec49e7200bc": [
+            "Body",
+            "Head",
+            "Leg",
+            "Wing",
+            "Tail"
+        ],
+        "687e47474eb84ef285b1df164e0788fb": [
+            "Angle",
+            "Body",
+            "Crown",
+            "Hair",
+            "Head",
+            "Foot",
+            "Leg",
+            "Wing",
+            "Scarf",
+            "Tail"
+        ],
+        "7fa9a73e4fc4477d82c8d3dadeb72c65": [
+            "Body",
+            "Conch Shells",
+            "Eye"
+        ],
+        "8730f3aafc784a849de8e9f2d9c707f8": [
+            "Body",
+            "Head",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Nose",
+            "Tail"
+        ],
+        "8b8e14ddf5104c579a6dd100ff8c0bdb": [
+            "Body",
+            "Clothing",
+            "Hair",
+            "Head",
+            "Arm",
+            "Ear",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Shorts",
+            "Tail"
+        ],
+        "8d3d39516f7b40d5aa19e85226940899": [
+            "Body",
+            "Buzzy Beetle",
+            "Eye",
+            "Leg",
+            "Tail",
+            "Tortoise Shell"
+        ],
+        "8d4357a4152e421884823d3c2d3da14a": [
+            "Bow Tie",
+            "Head",
+            "Arm",
+            "Ear",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Body"
+        ],
+        "a95c590e89444458b53a15190c7560c3": [
+            "Body",
+            "Head",
+            "Knife",
+            "Arm",
+            "Ear",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Meadow"
+        ],
+        "cdc707fbe68c474497cb9dd676ede842": [
+            "Body",
+            "Head",
+            "Arm",
+            "Foot",
+            "Tail"
+        ],
+        "d5cbe3dc52d94d78848c111fb959e8f2": [
+            "Body",
+            "Fur",
+            "Head",
+            "Ear",
+            "Leg",
+            "Tail"
+        ]
+    },
+    "Daily-Used": {
+        "01b8043112e74366a21256d5e64398fb": [
+            "Frame",
+            "Glass",
+            "Rims"
+        ],
+        "0d829115bb4d472da5d05cdf529b6694": [
+            "Body",
+            "Leg",
+            "Signal Towers",
+            "Tower"
+        ],
+        "1b4484ff850e4580a96eb29ade0c98a4": [
+            "Base",
+            "Tail",
+            "Barrel",
+            "Pendant",
+            "Magazines",
+            "Lens",
+            "Scope",
+            "Body",
+            "Grip",
+            "Trigger"
+        ],
+        "2e5436e635dc4336984c76a5f92c7141": [
+            "Barrel",
+            "Body",
+            "Grip",
+            "Magazines",
+            "Tail"
+        ],
+        "4119064c292c4a6c8fc6236a8034c2f1": [
+            "Top",
+            "Ring",
+            "Pull Tabs",
+            "Handle",
+            "Body",
+            "Tableting",
+            "Spring"
+        ],
+        "45adf40fce0a4690878d1c23c95f8477": [
+            "Body",
+            "Matte Steel",
+            "Polished Steel",
+            "Screw",
+            "Spring",
+            "Top"
+        ],
+        "45f763b1243e4836a75f22278b80f6fe": [
+            "Left",
+            "Middle",
+            "Right"
+        ],
+        "47e55754cfde48a49c3dfe12e393dc18": [
+            "Diamond",
+            "Ornament",
+            "Shanks"
+        ],
+        "4ca574ac76344394b73acde0ef7b9bf4": [
+            "Body",
+            "Bottom",
+            "Fort",
+            "Left",
+            "Flank",
+            "Right",
+            "Top"
+        ],
+        "55fcb4c56c9345e0bb18738061aeb7a1": [
+            "Barrel",
+            "Body",
+            "Bracket",
+            "Magazines",
+            "Magnifying Glass",
+            "Tail"
+        ],
+        "5700259eeb494b8f8a0b8f63486c59cc": [
+            "Body",
+            "Electrical Box",
+            "Front",
+            "Exhaust Pipe",
+            "Pipeline",
+            "Top",
+            "Wire"
+        ],
+        "670f26a742f748b6b7542e7730f9803a": [
+            "Body",
+            "Collar",
+            "Head",
+            "Foot",
+            "Horn",
+            "Hand"
+        ],
+        "67e2e51a2c87480a999293f3c554d61d": [
+            "Water Pipe",
+            "Lid",
+            "Base",
+            "Switch",
+            "Seat",
+            "Body"
+        ],
+        "68834dab6d6c46bb8fb7ca4d5c218b67": [
+            "Body",
+            "Color Bars",
+            "Glass",
+            "Button",
+            "Knob",
+            "Light"
+        ],
+        "727370d6df3e47bfabc30ac1b10fb445": [
+            "Body",
+            "Insole",
+            "Shoelace",
+            "Shoe Labels",
+            "Shoe Lining",
+            "Sole"
+        ],
+        "77d56cc994f94d8280c38009688e7413": [
+            "Base",
+            "Body",
+            "Knob",
+            "Dial",
+            "Glass",
+            "Pointer"
+        ],
+        "86670b8918b3487092e86a60ab5b641c": [
+            "Base",
+            "Body",
+            "Clothing"
+        ],
+        "8a5c0fd0d4bc45128f3ee5c65a32e54f": [
+            "Bottle",
+            "Bottle Cap",
+            "Straw",
+            "Ring"
+        ],
+        "9338271b6aea4de89bbe37d7bc0abcfe": [
+            "Base",
+            "Body",
+            "Launch",
+            "Bracket",
+            "Light",
+            "Paw",
+            "Tail"
+        ],
+        "d1a5633cfa0740d59bce4d3ea051329d": [
+            "Base",
+            "Door",
+            "Leg",
+            "Screen",
+            "Screw",
+            "Body",
+            "Others"
+        ],
+        "d4f7c4b5f9bd4284899477cb1f5bb48f": [
+            "Bracket",
+            "Handle",
+            "Gun",
+            "Muzzle",
+            "Trigger"
+        ],
+        "e3afb2e543314bd08dc1adcbabb1e5c6": [
+            "Body",
+            "Enclosure",
+            "Grip",
+            "Pull Tabs",
+            "Top"
+        ],
+        "ee67f09ba90c4b91bd2ff00e24332345": [
+            "Body",
+            "Ball",
+            "Horizontal Circumference",
+            "Horn",
+            "Vertical Circumference"
+        ],
+        "efccf91fd1ed49289853125f25c0c9ae": [
+            "Top",
+            "Others",
+            "Launch Port",
+            "Bottom",
+            "Grip"
+        ],
+        "f45ac2100d2342fa8ab39d38d0f874ba": [
+            "Body",
+            "Pull Tabs",
+            "Top"
+        ]
+    },
+    "Buildings&&Outdoor": {
+        "00790c705e4c4a1fbc0af9bf5c9e9525": [
+            "Billboard",
+            "Body",
+            "Chimney",
+            "Distribution Box",
+            "Door",
+            "Earth",
+            "Glass",
+            "Grassland",
+            "Ice Cream Garnish",
+            "Ice Cream Shop Building",
+            "Seat",
+            "Sunshade",
+            "Tree",
+            "Water Pipe",
+            "Ice Cream"
+        ],
+        "01fe14f50de443e4b11ad1fe033df666": [
+            "Brackets",
+            "Door",
+            "Foundation",
+            "Column",
+            "Lantern",
+            "Railing",
+            "Roof",
+            "Support Frame",
+            "Wall",
+            "Wing Angles",
+            "Window"
+        ],
+        "1b3e8b99913442308aa989e3f87680b3": [
+            "Body",
+            "Chimney",
+            "Door",
+            "Flowerpot",
+            "Window",
+            "Mud",
+            "Mushroom",
+            "Roof",
+            "Stone"
+        ],
+        "1c2814ba1a6d43e8a27fcb1d26b6aabf": [
+            "Door",
+            "Earth",
+            "Window",
+            "Roof",
+            "Roof Frames",
+            "Steps",
+            "Wall"
+        ],
+        "2ef369ebae66464f9d2479057a6bf6d2": [
+            "Rocker",
+            "Roof",
+            "Rope",
+            "Shelf",
+            "Well"
+        ],
+        "358eb80d4d074dee8cd65b4b0fa187f7": [
+            "Balcony",
+            "Wall",
+            "Window",
+            "Chair",
+            "Chimney",
+            "Earth",
+            "Door",
+            "Roof",
+            "Roof Frames",
+            "Shed",
+            "Stone Road"
+        ],
+        "3d55d8d947c2402498c23c1d6dbce934": [
+            "Decorative Paintings",
+            "Brick Wall Decoration",
+            "Cask",
+            "Chimney",
+            "Crossbeam",
+            "Door",
+            "Floor",
+            "Light",
+            "Wall",
+            "Roof",
+            "Roof Frames",
+            "Rug",
+            "Window",
+            "Wooden Box"
+        ],
+        "3eac61535005406885ad708b4eb375e9": [
+            "Base",
+            "Door",
+            "Wooden House",
+            "Glass",
+            "Light",
+            "Wall",
+            "Wood",
+            "Wooden Frames",
+            "Room"
+        ],
+        "416ea8eb185542499bab9b523c072fd6": [
+            "House Beam",
+            "Support Frame",
+            "Plank",
+            "Roof",
+            "Rope",
+            "Swivel Rod",
+            "Water Well"
+        ],
+        "4d33f78f60a245e0b4cf812637509e9a": [
+            "Bonsai",
+            "Chimney",
+            "Crock",
+            "Door",
+            "Earth",
+            "Floor",
+            "House Beam",
+            "Moon Decoration",
+            "Roof",
+            "Roofhouse",
+            "House",
+            "Star Charm"
+        ],
+        "4d350186abc74076ae0c7d91d04a78fa": [
+            "Balcony",
+            "Floor",
+            "Roof",
+            "Wall"
+        ],
+        "4f9391e9db8b453ea08c7c0109077d17": [
+            "Attic",
+            "Body",
+            "Roof",
+            "Supporting Structure",
+            "Waterwheel",
+            "Window"
+        ],
+        "5c670e2d8c014a35be0710652e87473a": [
+            "Base",
+            "Floor",
+            "Garret"
+        ],
+        "5fb5b1704b464f5c94b667f1b630bb39": [
+            "Flag",
+            "Floor",
+            "Roof",
+            "Window",
+            "Staircase"
+        ],
+        "6a834c1320c245ac87d16784683aeeec": [
+            "Body",
+            "Curtain",
+            "Fence",
+            "Floor",
+            "House Beam",
+            "Roofs",
+            "Ornament",
+            "Thatch",
+            "Window"
+        ],
+        "7b7b140d42cf447d87ab5e1ef407d9ae": [
+            "Brick",
+            "Brick Wall",
+            "Door",
+            "Roof",
+            "Window",
+            "White Wall",
+            "White Stone"
+        ],
+        "b51e3cb5e548409f940eb38f8db551d2": [
+            "Chimney",
+            "Ladder",
+            "Roof",
+            "Roof Frames",
+            "Stones",
+            "Wall",
+            "Window",
+            "Default Material"
+        ],
+        "c209c30d7a1843918ea5df1c61d594a5": [
+            "Balustrade",
+            "Roof",
+            "Wall",
+            "Steps",
+            "Windmill"
+        ],
+        "cffd007512a74a47b48390e1777c2afa": [
+            "Chimney",
+            "Cottage Eaves",
+            "Door",
+            "Floor",
+            "Floor Window",
+            "House Beam",
+            "Roof",
+            "Steps",
+            "Wall",
+            "Water Pipe",
+            "Window"
+        ],
+        "da0ea36b7904452dbd00952aeb4c453e": [
+            "Window",
+            "Cask",
+            "Door",
+            "Earth",
+            "Hatchet",
+            "Roof",
+            "Roof Frames",
+            "Shield",
+            "Shield Decoration",
+            "Sword",
+            "Wall",
+            "Wooden Signs"
+        ],
+        "ea7259d5a16544c08369264acb581f89": [
+            "Corn",
+            "Door",
+            "Earth",
+            "Fort",
+            "Roof",
+            "Roof Frames",
+            "Top",
+            "Wall"
+        ],
+        "f044310ff65243f9b90fa0904025c034": [
+            "Bucket",
+            "Chains",
+            "Eaves",
+            "Roller",
+            "Roof",
+            "Water Well",
+            "Wooden Frames"
+        ],
+        "f1150d2342a8470e912942c49e978f28": [
+            "Advertising Board",
+            "Brick Wall",
+            "Door",
+            "Floor Window",
+            "Light",
+            "Roof",
+            "Roof Beam",
+            "Sunshade",
+            "Vine",
+            "Wooden Wall"
+        ],
+        "f222afc918e14e93bcd98d98aed5c698": [
+            "Body",
+            "Bookshelf",
+            "Box",
+            "Column",
+            "Door",
+            "Enchantment Table",
+            "Fencing",
+            "Grass",
+            "Grassland",
+            "House Beam",
+            "Mud",
+            "Ornament",
+            "Torch",
+            "Window"
+        ],
+        "fcc3241662174fbbb146e6cf658293a9": [
+            "Cobbled Road",
+            "Fountain",
+            "Stele",
+            "House",
+            "Banner",
+            "Tree"
+        ]
+    },
+    "Transportations": {
+        "11ad3b320ee74185ae4ba26ddc910b52": [
+            "Ball",
+            "Mast",
+            "Sail",
+            "Body",
+            "Deck",
+            "Empennage",
+            "Flag",
+            "Rudder",
+            "Anchor",
+            "Rope",
+            "Ship Beam"
+        ],
+        "13399a61f6414e4f94bdcb8ad4dbc7ce": [
+            "Body",
+            "Detectors",
+            "Headlights",
+            "Tire",
+            "Box",
+            "Tire Axles",
+            "Video"
+        ],
+        "13cc3ffc69964894a2bc94154aed687f": [
+            "Body",
+            "Car Chassis",
+            "Frame",
+            "Window",
+            "Seat",
+            "Light",
+            "Tire",
+            "Mirror",
+            "Steering Wheel"
+        ],
+        "1b41e3e63867499cada873215bf255ee": [
+            "Base",
+            "Cab",
+            "Chassis",
+            "Tire",
+            "Window",
+            "Vitta"
+        ],
+        "2084a523a5df4567844524afef5912db": [
+            "Body",
+            "Tire Axles",
+            "Fuel Tank",
+            "Tire",
+            "Seat",
+            "Steering Wheel",
+            "Frame"
+        ],
+        "226887c32c7a4a1f97de694e9bdbd10d": [
+            "Base",
+            "Boom",
+            "Carriage",
+            "Tire Axles",
+            "Head",
+            "Hooking",
+            "Ear",
+            "Wheel",
+            "Spring",
+            "Window",
+            "Roller",
+            "Rope",
+            "Shelf"
+        ],
+        "245af7dde0cd4add9f7e11db3bbbccba": [
+            "Body",
+            "Empennage",
+            "Observation Room",
+            "Observation Room Window",
+            "Periscope",
+            "Propeller",
+            "Submarine Head",
+            "Window"
+        ],
+        "3a5ed2b8d5c5468897e797dcaba508a1": [
+            "Antenna",
+            "Base",
+            "Chimney",
+            "Light",
+            "Side",
+            "Track",
+            "Wheel",
+            "Middle",
+            "Top",
+            "Muzzle"
+        ],
+        "3acbbe6269234a22b93f7e44aa8b1798": [
+            "Chimney",
+            "Empennage",
+            "Railing",
+            "Rotating Paddle",
+            "Body",
+            "Ornament",
+            "Superstratum",
+            "Trim"
+        ],
+        "474fd643f4204ee59ff73fe9b1916239": [
+            "Body",
+            "Chain",
+            "Fuel Tank",
+            "Grip",
+            "Head",
+            "Saddle",
+            "Tire"
+        ],
+        "4af3caebbad24f25a04e4db48a85b74d": [
+            "Base",
+            "Body",
+            "Cab",
+            "Digging Shovels",
+            "Connecting Rod",
+            "Track",
+            "Wheel",
+            "Pushrod",
+            "Seat",
+            "Wire"
+        ],
+        "5f1e1e7148424a6bae25b5138ba0088e": [
+            "Body",
+            "Bottom",
+            "Fort",
+            "Bumper",
+            "Gun",
+            "Empennage",
+            "Foot Pedal",
+            "Fender",
+            "Tire",
+            "Light",
+            "Tire Axles",
+            "Window"
+        ],
+        "614459e9cdfb4a06abbf2d6ac962a08a": [
+            "Body",
+            "Car Interior",
+            "Empennage",
+            "Frame",
+            "Door",
+            "Tire",
+            "Window",
+            "Mirror"
+        ],
+        "6499bf2bcc024d419bd23f4d2eb332ce": [
+            "Body",
+            "Cannon",
+            "Tire Axle",
+            "Wheel",
+            "Support Frame"
+        ],
+        "65c6ffa083c6496eb84a0aa3c48d63ad": [
+            "Antenna",
+            "Body",
+            "Fort",
+            "Knob",
+            "Headlight",
+            "Track",
+            "Wheel",
+            "Outlet"
+        ],
+        "74c05ea2f5d64357a75e4ecafb9570f9": [
+            "Body",
+            "Gun",
+            "Exhaust Pipe",
+            "Fender",
+            "Track",
+            "Wheel",
+            "Top"
+        ],
+        "7b15e31faa7141329dad5f83089f678a": [
+            "Base",
+            "Cannon",
+            "Door",
+            "Antenna",
+            "Fender",
+            "Track",
+            "Ventilation Duct",
+            "Wheel",
+            "Light",
+            "Top"
+        ],
+        "7c6ac3a8aa4b472fbc31ed8cf50703d2": [
+            "Canopy Racks",
+            "Seat",
+            "Tire Crossbar",
+            "Wheel",
+            "Hide",
+            "Tire Racks",
+            "Steering Wheel",
+            "Tarpaulin"
+        ],
+        "844fc9a82f46421c9f10804bd8055212": [
+            "Barrel",
+            "Body",
+            "Fort",
+            "Bumper",
+            "Exhaust Cylinder",
+            "Hand Grenade",
+            "Track",
+            "Wheel Hub"
+        ],
+        "8ca1867c11bb48a39eb2aca203beb70b": [
+            "Body",
+            "Tire Axle",
+            "Window",
+            "Gun",
+            "Tire",
+            "Light",
+            "Mirror",
+            "Spare Wheel"
+        ],
+        "8da95b178bc641d892f296e42c0ed8a0": [
+            "Antenna",
+            "Body",
+            "Bumper",
+            "Light",
+            "Tire",
+            "Tire Axle"
+        ],
+        "8fb088daf56f434c9595b2d1e01ba2ea": [
+            "Antenna",
+            "Body",
+            "Leg",
+            "Others",
+            "Window",
+            "Window Frame"
+        ],
+        "94f6eb48b8fe44c69dba4ef04cea53b4": [
+            "Carriage",
+            "Door",
+            "Window",
+            "Tire",
+            "Lights"
+        ],
+        "98c26e7d386c466e982ec81e89d42b06": [
+            "Barrel",
+            "Body",
+            "Chassis",
+            "Earth",
+            "Block",
+            "Trim",
+            "Track",
+            "Wheel"
+        ],
+        "a45db53fa2fc4e94955e59aed66aa0c3": [
+            "Body",
+            "Face",
+            "Wheel",
+            "Lamp",
+            "Shovel",
+            "Tail"
+        ],
+        "aa1a732d4fdc44e0a20cee312a929d77": [
+            "Body",
+            "Window",
+            "Exhaust Pipes",
+            "Tire",
+            "Light",
+            "Mirror",
+            "Spare Tire"
+        ],
+        "b7ce14aa504e4bbfa7122c444150999f": [
+            "Armrest",
+            "Balcony",
+            "Iron Fence",
+            "Blocking The Door",
+            "Body",
+            "Cask",
+            "Deck",
+            "Gold",
+            "Hanging Car",
+            "Knife",
+            "Ladder",
+            "Arrow Stand",
+            "Cannon",
+            "Mast",
+            "Rope",
+            "Top",
+            "Sub Mast"
+        ],
+        "b8c12a34914f41c18bc4d2c3a9710562": [
+            "Body",
+            "Enclosure",
+            "Frame",
+            "Tire",
+            "Light",
+            "Seat",
+            "Steering Wheel"
+        ],
+        "cbb199ae1edf41c6898c997ae785c4db": [
+            "Balustrade",
+            "Body",
+            "Bench",
+            "Head",
+            "Seat",
+            "Billboard",
+            "Tire",
+            "Light",
+            "Nets",
+            "Others",
+            "Roof",
+            "Staircase",
+            "Steering Wheel"
+        ],
+        "d0c8bc409e2b4b65bb7f3d020a228e35": [
+            "Body",
+            "Bottom",
+            "Window",
+            "Leg",
+            "Top"
+        ],
+        "d34629ae9cf3432188545f36ac1d9cb8": [
+            "Body",
+            "Cab",
+            "Head",
+            "Spiral",
+            "Wing"
+        ],
+        "dd76ce99626246889beeb477d6ad2c17": [
+            "Base",
+            "Body",
+            "Chain",
+            "Exhaust Pipe",
+            "Foot Pedals",
+            "Fenders",
+            "Wheel",
+            "Fuel Tank",
+            "Handlebar",
+            "Head",
+            "Mirror",
+            "Parking Racks",
+            "Seat",
+            "Tire Racks"
+        ],
+        "e56ee981a9504153b98e707d6e9c757c": [
+            "Body",
+            "Carriage",
+            "Door",
+            "Frame",
+            "Ladder",
+            "Tire",
+            "Tire Axles",
+            "Light",
+            "Mirrors",
+            "Window",
+            "Others",
+            "Spare Tire",
+            "Wipers"
+        ],
+        "f000c34e5d2a4d2399ccf1ebb83f956c": [
+            "Base",
+            "Canopy",
+            "Chain",
+            "Chimney",
+            "Dashboard",
+            "Tire Axle",
+            "Enclosure",
+            "Tire",
+            "Light",
+            "Motor",
+            "Pipeline",
+            "Saddle",
+            "Steering Wheel"
+        ],
+        "f0742330720b49e59740835a12380219": [
+            "Body",
+            "Cannon",
+            "Wheel",
+            "Snap Fastening"
+        ],
+        "f121301624174b179ca4d50158797b03": [
+            "Dashboard",
+            "Exhaust Pipe",
+            "Foot Pedals",
+            "Frame",
+            "Fenders",
+            "Light",
+            "Wheel",
+            "Fuel Tank",
+            "Handlebar",
+            "Mirror",
+            "Saddle"
+        ],
+        "f62a1cee604c44f5a4e969cd8eca06a3": [
+            "Base",
+            "Body",
+            "Window",
+            "Tube",
+            "Propeller",
+            "Tail",
+            "Top"
+        ],
+        "f74229e6014d4d7d8572095b1eac41e3": [
+            "Body",
+            "Bottle",
+            "Canopy",
+            "Carriage",
+            "Dashboard",
+            "Tire Axle",
+            "Handbrake",
+            "Wheel",
+            "Light",
+            "Saddle",
+            "Staircase",
+            "Steering Wheel",
+            "Wooden Frames"
+        ]
+    },
+    "Plants": {
+        "02e777bdc5114b148963ed3def6ad471": [
+            "Leaf",
+            "Earth",
+            "Flower",
+            "Flowerpot",
+            "Grass",
+            "Petals",
+            "Stalks",
+            "Stones"
+        ],
+        "186ecaa38ee9468eb222328852afbd7c": [
+            "Grassland",
+            "Leaf",
+            "Trunk"
+        ],
+        "2830f5fdb88942d5a3285a7433b4efea": [
+            "Fruit",
+            "Fruit Path",
+            "Fruit Stems",
+            "Leaf"
+        ],
+        "3b204e1c8fa34183821cf925128f545c": [
+            "Flower",
+            "Stem",
+            "Petal",
+            "Vase"
+        ],
+        "4ff841231d7d4c54ac917e63c678c9fc": [
+            "Body",
+            "Door",
+            "Mud",
+            "Mushroom Roof",
+            "Window",
+            "Window Frame"
+        ],
+        "5c729845f27e4f359d31521c69dc60e3": [
+            "Flowerpot",
+            "Flower",
+            "Flower Path"
+        ],
+        "66e6c396a23a446ebb0973de52181e94": [
+            "Beetle Body",
+            "Beetle Head",
+            "Beetle Horn",
+            "Beetle Leg",
+            "Mushroom Caps",
+            "Mushroom Stalks",
+            "Earth",
+            "Lizard Body",
+            "Lizard Head",
+            "Lizard Leg",
+            "Lizard Tail"
+        ],
+        "70cae8050a1c4d3abd6681ba892a9a44": [
+            "Body",
+            "Head",
+            "Leaf",
+            "Mud",
+            "Tongue",
+            "Tooth",
+            "Hair"
+        ],
+        "7c8bd48528554b3da47f2510287d78b4": [
+            "Body",
+            "Flowerpot",
+            "Leaf",
+            "Hair",
+            "Head"
+        ],
+        "87ae2a99547f4240a15f7fe30e9a7122": [
+            "Body",
+            "Leaf",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg"
+        ],
+        "b34bc2a0607846aaae8636a9bea7e43d": [
+            "Cactus Body",
+            "Cactus Arm",
+            "Flower",
+            "Flowerpot",
+            "Hat",
+            "Eye",
+            "Mud"
+        ],
+        "b8915325eadc4f86af543daaf10702de": [
+            "Cactus",
+            "Cactus Thorns",
+            "Flowerpot",
+            "Hat",
+            "Mud"
+        ],
+        "bd0b6595da8a420b86cd78ad905e1a13": [
+            "Body",
+            "Flower",
+            "Flowerpot",
+            "Arm"
+        ],
+        "cbafed33e2f7412c97ba3941c399b2df": [
+            "Flowerpot",
+            "Flower Cores",
+            "Leaf",
+            "Flower Stems",
+            "Mud",
+            "Flowers"
+        ],
+        "d75e06c3ff8f44f9a9b163399e43f0fd": [
+            "Flowerpot",
+            "Flower Stems",
+            "Leaf",
+            "Beard",
+            "Eye",
+            "Foot",
+            "Mud"
+        ],
+        "de56c4a3d0134a949a74e56e40024f86": [
+            "Flowerpot",
+            "Large Mushrooms",
+            "Mushrooms",
+            "Mud"
+        ],
+        "e12beb2008d348a9b48e6d2beb2121b1": [
+            "Body",
+            "Flowerpot",
+            "Leaf",
+            "Head",
+            "Head Leaf",
+            "Eyebrow",
+            "Mud"
+        ],
+        "f70f112151514494ac859a50fa5273ff": [
+            "Stab",
+            "Body",
+            "Flower",
+            "Flowerpot",
+            "Arm",
+            "Mud"
+        ]
+    },
+    "Food": {
+        "00aee5c2fef743d69421bb642d446a5b": [
+            "Basket",
+            "Breadstick",
+            "Cloth"
+        ],
+        "0c3ca2b32545416f8f1e6f0e87def1a6": [
+            "Apple",
+            "Apple Stem",
+            "Tray"
+        ],
+        "0c4e4a0b2a374553ae762bb33e8dd2d0": [
+            "Biscuits",
+            "Blueberry Jam",
+            "Box",
+            "Cookie Slices",
+            "Crushed Cookies",
+            "Donut",
+            "Ice Cream",
+            "Strawberry"
+        ],
+        "6568e5d622254ccdba3503288faed773": [
+            "Bag",
+            "Body",
+            "Butter",
+            "Drink"
+        ],
+        "73fc1424ee9c4dd9bee17702aab2b7b3": [
+            "Prismatic Pumpkin",
+            "Prismatic Pumpkin Stems",
+            "Spherical Pumpkin",
+            "Spherical Pumpkin Stems",
+            "Square Pumpkin",
+            "Square Pumpkin Stalks"
+        ],
+        "8ec56d0baa8f492da805fcf2ea98de4b": [
+            "Cup Lid",
+            "Carton Lid",
+            "Paper Cups",
+            "Carton Body",
+            "Ketchup",
+            "French Fries",
+            "Dinner Plates",
+            "Chili Sauce",
+            "Chicken Nuggets",
+            "Paper Bags"
+        ],
+        "95364de582474cf3ab38ca4bae946652": [
+            "Biscuits",
+            "Crispy Cones",
+            "Ice Cream"
+        ],
+        "9d6b66aba431493097f289a6e42f3614": [
+            "Mushroom Head",
+            "Mushroom Spots",
+            "Ornaments",
+            "Stone",
+            "Mushroom Body"
+        ]
+    },
+    "Electronics": {
+        "002e462c8bfa4267a9c9f038c7966f3b": [
+            "Body",
+            "Button",
+            "Glass",
+            "Knob",
+            "Lens",
+            "Ornament",
+            "Screen"
+        ],
+        "062c791e78a643f7bd380c336f809389": [
+            "Button",
+            "Cover",
+            "Dial",
+            "Glass",
+            "Watchband",
+            "Pointer",
+            "Snap Fastening"
+        ],
+        "074c0b05d9644dd0ab5e2b932fa2bb5a": [
+            "Cover",
+            "Button",
+            "Enclosure",
+            "Inside",
+            "Knob",
+            "Screen",
+            "Watchband"
+        ],
+        "1d97ec6885464f6a9ce7a4cc955bff41": [
+            "Body",
+            "Head",
+            "Antenna",
+            "Foot",
+            "Arm",
+            "Hand",
+            "Leg"
+        ],
+        "238bdb0c4e3e4432951c31c85a55a9c8": [
+            "Bottom",
+            "Glass",
+            "Helmet Cover",
+            "Hide",
+            "Nail",
+            "Trim"
+        ],
+        "25a32b2b119948c3b905a21db1098f45": [
+            "Base",
+            "Body",
+            "Bracket",
+            "Button",
+            "Wire"
+        ],
+        "25a8ae3794594941bb2f7091d608b336": [
+            "Body",
+            "Caterpillar Belt",
+            "Head",
+            "Headphones",
+            "Arm",
+            "Hand",
+            "Pipe",
+            "Tentacle",
+            "Neck",
+            "Roller"
+        ],
+        "2dd2980caf87450d9ef7e42adb43f2ca": [
+            "Base",
+            "Head",
+            "Arm",
+            "Hand",
+            "Rolleres",
+            "Track"
+        ],
+        "31b3720044ca458d90461a4ba5a22abf": [
+            "Base",
+            "Chimney",
+            "Arm",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Light",
+            "Body",
+            "Rebar"
+        ],
+        "3b4702ea84544ab5bf0cbfe91df1b789": [
+            "Base",
+            "Subject",
+            "Support Frame"
+        ],
+        "404f12ba60f444bca620c4405ef50bab": [
+            "Inside The Top Box",
+            "Combination Lock",
+            "Decoration",
+            "Facemask",
+            "The Box",
+            "Connection Structure",
+            "Medicament",
+            "Temperature Controller"
+        ],
+        "42e5ff17de214f0d8aabd509f090a46c": [
+            "Base",
+            "Button",
+            "Drill Bit",
+            "Front",
+            "Grip",
+            "Body"
+        ],
+        "4b57e73e82ab400aa307adac36ea0e5e": [
+            "Body",
+            "Drill Bit",
+            "Energy",
+            "Energy Ball",
+            "Handle",
+            "Left",
+            "Right"
+        ],
+        "58685e436e6242c188b95fcc2ba7c1d3": [
+            "Adjustment Section",
+            "Base",
+            "Body",
+            "Grill",
+            "Knob",
+            "Slippery Twist"
+        ],
+        "5ae22f04776a4a06997eb427eafcb07c": [
+            "Base",
+            "Switch",
+            "Tube",
+            "Bottom",
+            "Snap Fastening",
+            "Grip",
+            "Drill Bit",
+            "Connect",
+            "Knob"
+        ],
+        "5fad3a288517425e96b5cc4a86ebfb46": [
+            "Rotary Shaft",
+            "Head",
+            "Propeller",
+            "Fuselage",
+            "Metal Ring"
+        ],
+        "6ea331125ac747c1b8640dc80d90d4cd": [
+            "Head",
+            "Arm",
+            "Ear",
+            "Foot",
+            "Hand",
+            "Leg",
+            "Body",
+            "Others"
+        ],
+        "71daf747a9b54b9299cc495533141eb5": [
+            "Body",
+            "Disk",
+            "Host",
+            "Keyboard",
+            "Keys",
+            "Screen",
+            "Wire"
+        ],
+        "78a7c30405f64b0f8137c3922c1464a0": [
+            "Button Table",
+            "Enclosure",
+            "Button",
+            "Glass",
+            "Remote Sensing",
+            "Screen"
+        ],
+        "891c88fa5ed0452aa5e77e2e98a00531": [
+            "Cylinder",
+            "Head",
+            "Arm",
+            "Bumper",
+            "Hand",
+            "Hub",
+            "Track",
+            "Body"
+        ],
+        "963c5f8b81c045fcab90387bf3aa5143": [
+            "Bottom Of Pot",
+            "Pot Lid",
+            "Kettle Body",
+            "Kettle Handle"
+        ],
+        "9e7856dd34ae444a934499782c5bd606": [
+            "Base",
+            "Connection Structure",
+            "Front",
+            "Hide",
+            "Middle",
+            "Screen",
+            "Top",
+            "Turtle"
+        ],
+        "abb0b5c646374beda83954fc2803d968": [
+            "Base Light",
+            "Light",
+            "Body",
+            "Electric Wire",
+            "Foot",
+            "Leg",
+            "Support Frame"
+        ],
+        "abdad363791d456786cdb511082d9d63": [
+            "Head",
+            "Foot",
+            "Arm",
+            "Hand",
+            "Leg",
+            "Body"
+        ],
+        "b1f98b0e3d4446c1ba4ff9ba2660aff7": [
+            "Ball",
+            "Base",
+            "Lens",
+            "Front",
+            "Button",
+            "Handle",
+            "Sidepanel",
+            "Support",
+            "Top"
+        ],
+        "b3a58da30f464dbba1c53c7f3cbedec9": [
+            "Connecting Rod",
+            "Dial Plate",
+            "Gear Wheel",
+            "Bell",
+            "Knob",
+            "Support",
+            "Pointer",
+            "Shell",
+            "Switch"
+        ],
+        "b5aa31a84cc746a982228827c5185ac3": [
+            "Body",
+            "Electric Wire",
+            "Knob",
+            "Clasp",
+            "Support",
+            "Cover",
+            "Switch"
+        ],
+        "b7fce3003d95479a9226f7cb639df893": [
+            "Body",
+            "Buckle",
+            "Leg",
+            "Hand",
+            "Machine Gun",
+            "Tube",
+            "Trim"
+        ],
+        "c93ee36deda14b4aa73c2b5a9d9e9c9f": [
+            "Head Beam",
+            "Earphone",
+            "Sponge"
+        ],
+        "ca86a57984f948e1b5c46a20c09a6223": [
+            "Backcover",
+            "Body",
+            "Buttons",
+            "Glass",
+            "Strap",
+            "Ring",
+            "Screen",
+            "Screw",
+            "Belt Frame"
+        ],
+        "da7af66ce5df4629802e97dc03d186f5": [
+            "Head",
+            "Arm",
+            "Foot",
+            "Leg",
+            "Hand",
+            "Body"
+        ],
+        "dcf35ae14df947a9a700b8bcff8db57f": [
+            "Base",
+            "Body",
+            "Enclosure",
+            "Fan Blades",
+            "Motor",
+            "Plug",
+            "Wire"
+        ],
+        "f634e3aae845402ca63e015086c9dbb4": [
+            "Base",
+            "Body",
+            "Baking Sheet",
+            "Handle",
+            "Knob",
+            "Light",
+            "Others",
+            "Rotating Shaft",
+            "Support Frame"
+        ],
+        "fd5b1428b91c47f1a74d98bb92c9fbe1": [
+            "Dial",
+            "Enclosure",
+            "Glass",
+            "Knob",
+            "Pointer"
+        ]
+    }
+}
